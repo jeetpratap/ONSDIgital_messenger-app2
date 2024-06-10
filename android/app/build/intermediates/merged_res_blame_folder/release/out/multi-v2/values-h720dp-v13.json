@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/workspace/ONSDIgital_messenger-app2/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/workspace/.gradle/caches/transforms-3/7a1d6e5d33aeb5d6b07df8380e407b32/transformed/appcompat-1.3.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
