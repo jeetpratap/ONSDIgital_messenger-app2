@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "74544024843",
+      "project_id": "onsdigital-messengerapp2",
+      "storage_bucket": "onsdigital-messengerapp2.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:74544024843:android:87c6e8ee3ce1907631660e",
+          "android_client_info": {
+            "package_name": "com.example.messengerapp"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBa80fdtCnrMYPpWfY9glhLD380NdurM2w"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
