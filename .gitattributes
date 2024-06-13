@@ -1,0 +1,2 @@
+android/android-sdk/emulator/lib64/qt/lib/libQt6WebEngineCoreAndroidEmu.so.6 filter=lfs diff=lfs merge=lfs -text
+commandlinetools.zip filter=lfs diff=lfs merge=lfs -text
